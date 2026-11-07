@@ -1,29 +1,34 @@
 # DevFolio — Kodela Santhosh Prabhas
 
-A responsive personal developer portfolio built with semantic HTML and CSS. It uses CSS variables for a consistent color system, Flexbox for the header, CSS Grid for project cards, and responsive breakpoints for smaller screens.
+A personal portfolio for a student developer who enjoys building useful, approachable web experiences. The site is made with plain HTML, CSS, and a tiny JavaScript snippet—no framework or build step.
 
 ## Live site
 
-https://prabhaskodela.github.io/DevFolio/
+[https://prabhaskodela.github.io/DevFolio/](https://prabhaskodela.github.io/DevFolio/)
 
-## Preview locally
+## What’s inside
 
-Open `index.html` in a browser. The page has no build step or external JavaScript dependencies.
+- A semantic single-page layout with About, Work, and Contact sections.
+- A consistent dark color system with lime and soft accent colors.
+- Flexbox navigation, CSS Grid project cards, and responsive breakpoints.
+- Four project cards linking to public repositories.
+- Email, GitHub, and LinkedIn contact links.
 
-## Projects
+## Run locally
 
-- [PixelPulse](https://github.com/Prabhaskodela/PixelPulse)
-- [SnapScape](https://github.com/Prabhaskodela/SnapScape)
-- [Compyde](https://github.com/Prabhaskodela/Compyde)
-- [Spirit](https://github.com/Prabhaskodela/Spirit)
+Open `index.html` directly in a browser. The page does not need a server or build command.
+
+## Selected projects
+
+- [PixelPulse](https://github.com/Prabhaskodela/PixelPulse) — Wikimedia Commons image search.
+- [SnapScape](https://github.com/Prabhaskodela/SnapScape) — visual web experiment.
+- [Compyde](https://github.com/Prabhaskodela/Compyde) — browser-first programming workspace for students.
+- [Spirited Workspace](https://github.com/Prabhaskodela/Spirit) — study collaboration space.
 
 ## Contact
 
-- Email: [kodelasanthoshprabhas@gmail.com](mailto:kodelasanthoshprabhas@gmail.com)
-- GitHub: [Prabhaskodela](https://github.com/Prabhaskodela)
-- LinkedIn: [prabhaskodela](https://www.linkedin.com/in/prabhaskodela)
+- [Email](mailto:kodelasanthoshprabhas@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/prabhaskodela)
+- [GitHub](https://github.com/Prabhaskodela)
 
-## Publish
-
-Upload this folder to a public GitHub repository named `DevFolio`, then enable GitHub Pages from the `main` branch and `/` (root). The public URL is `https://prabhaskodela.github.io/DevFolio/`.
-
+Built with curiosity by Kodela Santhosh Prabhas.
