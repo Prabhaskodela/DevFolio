@@ -27,3 +27,10 @@ Open `index.html` in a browser. The page has no build step or external JavaScrip
 
 Upload this folder to a public GitHub repository named `DevFolio`, then enable GitHub Pages from the `main` branch and `/` (root). The public URL is `https://prabhaskodela.github.io/DevFolio/`.
 
+## Submission checklist
+
+- [x] Semantic header, main, about, projects, and contact sections
+- [x] Responsive layout with Flexbox, CSS Grid, and breakpoints
+- [x] Working email, GitHub, and LinkedIn links
+- [x] Public GitHub repository and GitHub Pages live URL
+
