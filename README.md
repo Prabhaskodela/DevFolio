@@ -32,3 +32,14 @@ Open `index.html` directly in a browser. The page does not need a server or buil
 - [GitHub](https://github.com/Prabhaskodela)
 
 Built with curiosity by Kodela Santhosh Prabhas.
+
+
+## Assignment checklist
+
+- [x] Semantic header, main, About and Work sections, and Contact footer
+- [x] Consistent CSS color and type system
+- [x] Flexbox navigation and CSS Grid project gallery
+- [x] Responsive one, two, and three column layouts
+- [x] Responsive image sizing
+- [x] Real project cards and working email, GitHub, and LinkedIn links
+- [x] GitHub Pages deployment and public live URL
